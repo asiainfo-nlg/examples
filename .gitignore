@@ -1,0 +1,10 @@
+/.metadata
+/MyMavenProject/mavenintro/maven-test-0/target
+*.class
+/Servers
+/nlg-ant-01/dist/lib
+/nlg.j2ee.web/.settings
+/RemoteSystemsTempFiles
+/nlg-j2ee-01
+/MyMavenProject/mavenintro
+/nlg.j2ee.web
